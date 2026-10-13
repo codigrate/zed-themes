@@ -1,0 +1,7 @@
+id = "codigrate-sakura-theme"
+name = "Codigrate Sakura"
+version = "2026.1.26"
+schema_version = 1
+authors = ["Codigrate <info@codigrate.com>"]
+description = "Inspired by cherry blossom season and the quiet gardens beneath it, this theme pairs pale petal backgrounds with deep rose and plum accents to create a soft and unhurried..."
+repository = "https://github.com/codigrate/zed-themes"

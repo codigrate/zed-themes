@@ -1,0 +1,7 @@
+id = "codigrate-autumn-theme"
+name = "Codigrate Autumn"
+version = "2026.1.26"
+schema_version = 1
+authors = ["Codigrate <info@codigrate.com>"]
+description = "Inspired by fallen leaves and late afternoon sunlight, this theme blends soft parchment backgrounds with rust, copper, and harvest gold to create a warm and unhurried coding..."
+repository = "https://github.com/codigrate/zed-themes"

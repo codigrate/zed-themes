@@ -1,0 +1,7 @@
+id = "codigrate-roraima-theme"
+name = "Codigrate Roraima"
+version = "2026.1.28"
+schema_version = 1
+authors = ["Codigrate <info@codigrate.com>"]
+description = "Inspired by the sunset over Mount Roraima and the slow turn from day to night on its tabletop summit, this theme blends deep brown and clay shadows with amber, gold, and salmon..."
+repository = "https://github.com/codigrate/zed-themes"

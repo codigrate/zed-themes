@@ -1,0 +1,7 @@
+id = "codigrate-istanbul-theme"
+name = "Codigrate Istanbul"
+version = "2026.1.22"
+schema_version = 1
+authors = ["Codigrate <info@codigrate.com>"]
+description = "Inspired by the soft daylight and sea breezes of Istanbul, this theme blends calm turquoise tones with warm historical accents to create a serene yet expressive coding environment."
+repository = "https://github.com/codigrate/zed-themes"

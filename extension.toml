@@ -1,0 +1,7 @@
+id = "codigrate-themes"
+name = "Codigrate Themes"
+version = "1.0.0"
+schema_version = 1
+authors = ["Codigrate <info@codigrate.com>"]
+description = "12 Codigrate editor themes inspired by nature and cities: Aurora Borealis, Autumn, Everest, Roraima, Sakura, Sequoia, Istanbul, Miami, Paris, Rio de Janeiro, Tallinn, Tokyo."
+repository = "https://github.com/codigrate/zed-themes"

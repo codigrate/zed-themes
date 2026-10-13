@@ -1,0 +1,7 @@
+id = "codigrate-aurora-borealis-theme"
+name = "Codigrate Aurora Borealis"
+version = "2026.1.26"
+schema_version = 1
+authors = ["Codigrate <info@codigrate.com>"]
+description = "Inspired by the Arctic night sky and the slow drift of the Northern Lights, this theme blends deep navy and teal shadows with luminous blue and green accents to create a calm..."
+repository = "https://github.com/codigrate/zed-themes"

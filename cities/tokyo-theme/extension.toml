@@ -1,0 +1,7 @@
+id = "codigrate-tokyo-theme"
+name = "Codigrate Tokyo"
+version = "2026.1.21"
+schema_version = 1
+authors = ["Codigrate <info@codigrate.com>"]
+description = "Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow of lantern-lined alleys, this theme blends deep indigo shadows with electric violet highlights..."
+repository = "https://github.com/codigrate/zed-themes"

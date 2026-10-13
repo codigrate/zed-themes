@@ -1,0 +1,7 @@
+id = "codigrate-rio-de-janeiro-theme"
+name = "Codigrate Rio de Janeiro"
+version = "2026.1.22"
+schema_version = 1
+authors = ["Codigrate <info@codigrate.com>"]
+description = "Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blends airy minty backgrounds with confident rainforest greens and clean coastal blues."
+repository = "https://github.com/codigrate/zed-themes"

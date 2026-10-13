@@ -1,0 +1,7 @@
+id = "codigrate-sequoia-theme"
+name = "Codigrate Sequoia"
+version = "2026.1.26"
+schema_version = 1
+authors = ["Codigrate <info@codigrate.com>"]
+description = "Inspired by the towering stillness of a sequoia grove, this theme blends deep forest black and bark brown with living green and moss accents to create a grounded and focused..."
+repository = "https://github.com/codigrate/zed-themes"

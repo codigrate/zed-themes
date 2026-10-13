@@ -1,0 +1,7 @@
+id = "codigrate-paris-theme"
+name = "Codigrate Paris"
+version = "2026.1.21"
+schema_version = 1
+authors = ["Codigrate <info@codigrate.com>"]
+description = "Inspired by elegant boulevards and Paris's sunset glow, this theme trades bright champagne for dusty rose accents over calm plum-espresso tones."
+repository = "https://github.com/codigrate/zed-themes"

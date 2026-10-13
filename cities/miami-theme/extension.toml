@@ -1,0 +1,7 @@
+id = "codigrate-miami-theme"
+name = "Codigrate Miami"
+version = "2026.1.24"
+schema_version = 1
+authors = ["Codigrate <info@codigrate.com>"]
+description = "Inspired by the electric nights and pastel sunsets of Miami, this theme blends deep purples with vibrant neon accents to create a bold yet balanced coding environment."
+repository = "https://github.com/codigrate/zed-themes"
